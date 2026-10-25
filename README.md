@@ -12,6 +12,9 @@ I'm exploring enterprise cybersecurity, cyber risk management, security strategy
 
 ## Featured Projects
 
+### [Cryptography & Authentication Labs](https://github.com/Lynaelewis/cryptography-authentication-labs)
+Sanitized, **AI-assisted educational examples** in Python covering SHA-256 file-integrity verification and salted password hashing, with unit tests. These are not original course submissions; test execution remains to be verified.
+
 ### [Enterprise Cybersecurity Risk Assessment](https://github.com/Lynaelewis/enterprise-cybersecurity-risk-assessment)
 A **fictional portfolio case study** covering a healthcare-services company's cybersecurity risks, a qualitative risk register, NIST CSF 2.0 mappings, and an executive-focused 90-day remediation plan. **Currently a drafted case study under review**, not a real-world client assessment.
 

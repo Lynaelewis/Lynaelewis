@@ -1,6 +1,6 @@
 # Hi, I'm Lynae!
 
-I'm a Computer Science & Engineering student at the **University of Connecticut**, concentrating in **Cybersecurity**.
+I'm a Computer Science & Engineering student at the University of Connecticut, concentrating in Cybersecurity.
 
 I'm exploring enterprise cybersecurity, cyber risk management, security strategy, and the security and privacy challenges created by emerging AI technologies. I enjoy combining technical problem-solving with communication and leadership.
 
@@ -13,16 +13,16 @@ I'm exploring enterprise cybersecurity, cyber risk management, security strategy
 ## Featured Projects
 
 ### [Cryptography & Authentication Labs](https://github.com/Lynaelewis/cryptography-authentication-labs)
-Sanitized, **AI-assisted educational examples** in Python covering SHA-256 file-integrity verification and salted password hashing, with six passing unit tests (verified locally in October 2026). These are portfolio demonstrations, not original course submissions.
+Sanitized in Python covering SHA-256 file-integrity verification and salted password hashing, with six passing unit tests (verified locally in October 2026). These are portfolio demonstrations, not original course submissions.
 
 ### [Enterprise Cybersecurity Risk Assessment](https://github.com/Lynaelewis/enterprise-cybersecurity-risk-assessment)
 A **fictional portfolio case study** covering a healthcare-services company's cybersecurity risks, a qualitative risk register, NIST CSF 2.0 mappings, and an executive-focused 90-day remediation plan. **Reviewed for internal consistency in October 2026**; this is an educational simulation, not a real-world client assessment.
 
 ### [Python Linked List Implementations](https://github.com/Lynaelewis/silver-engine)
-Coursework exploring linked lists, inheritance, reversal, sorted insertion, and duplicate removal. An [enhanced version with unit tests](https://github.com/Lynaelewis/silver-engine/tree/portfolio-improvements-preserve-original/enhanced) is available on a separate branch; original coursework remains unchanged.
+Coursework exploring linked lists, inheritance, reversal, sorted insertion, and duplicate removal. An [enhanced version with unit tests](https://github.com/Lynaelewis/silver-engine/tree/portfolio-improvements-preserve-original/enhanced) is available on a separate branch.
 
 ### RideSync — Instructor Dashboard Prototype
-An exploratory cycling-instructor dashboard concept focused on playlist timing, class progress, and ride planning. [View prototype](https://ridesync.docile-mint-3746.chatgpt.site). Music-service integration is not yet implemented.
+An exploratory cycling-instructor dashboard concept focused on playlist timing, class progress, and ride planning. [View prototype](https://ridesync.docile-mint-3746.chatgpt.site). Project in progress for 2028 Senior Design.
 
 ## Areas I'm Exploring
 
@@ -30,7 +30,7 @@ Cybersecurity consulting · Enterprise risk and governance · Security analysis 
 
 ## Career Goals
 
-I'm preparing for **Summer 2027 cybersecurity and technology internships** and hope to build a career helping organizations evaluate security risks, protect critical systems, and make informed security decisions.
+I'm preparing for **Summer 2027 cybersecurity and technology internships** and aspire to build a career helping organizations evaluate security risks, protect critical systems, and make informed security decisions.
 
 ## Contact
 

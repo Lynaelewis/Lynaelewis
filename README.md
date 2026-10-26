@@ -13,10 +13,10 @@ I'm exploring enterprise cybersecurity, cyber risk management, security strategy
 ## Featured Projects
 
 ### [Cryptography & Authentication Labs](https://github.com/Lynaelewis/cryptography-authentication-labs)
-Sanitized, **AI-assisted educational examples** in Python covering SHA-256 file-integrity verification and salted password hashing, with unit tests. These are not original course submissions; test execution remains to be verified.
+Sanitized, **AI-assisted educational examples** in Python covering SHA-256 file-integrity verification and salted password hashing, with six passing unit tests (verified locally in October 2026). These are portfolio demonstrations, not original course submissions.
 
 ### [Enterprise Cybersecurity Risk Assessment](https://github.com/Lynaelewis/enterprise-cybersecurity-risk-assessment)
-A **fictional portfolio case study** covering a healthcare-services company's cybersecurity risks, a qualitative risk register, NIST CSF 2.0 mappings, and an executive-focused 90-day remediation plan. **Currently a drafted case study under review**, not a real-world client assessment.
+A **fictional portfolio case study** covering a healthcare-services company's cybersecurity risks, a qualitative risk register, NIST CSF 2.0 mappings, and an executive-focused 90-day remediation plan. **Reviewed for internal consistency in October 2026**; this is an educational simulation, not a real-world client assessment.
 
 ### [Python Linked List Implementations](https://github.com/Lynaelewis/silver-engine)
 Coursework exploring linked lists, inheritance, reversal, sorted insertion, and duplicate removal. An [enhanced version with unit tests](https://github.com/Lynaelewis/silver-engine/tree/portfolio-improvements-preserve-original/enhanced) is available on a separate branch; original coursework remains unchanged.
